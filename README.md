@@ -1,0 +1,2 @@
+# ContractCode
+$ElonInuCEO Contract Code
